@@ -1,0 +1,10 @@
+max_side: 2400
+blur_min: 60
+brightness_min: 90
+contrast_min: 35      # likely needs lowering on real photos
+shadow_max: 28
+skew_max_deg: 3.0
+ink_contrast_min: 40
+lines_min: 2
+rule_blue_min: 5
+noise_min_area: 12

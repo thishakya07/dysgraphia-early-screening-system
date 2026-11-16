@@ -1,0 +1,18 @@
+# Real data: never commit
+data/raw/
+data/processed/
+data/real/
+data/*.xlsx
+*key*.csv
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
